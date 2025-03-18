@@ -19,7 +19,7 @@
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/YUbot.git
+   git clone https://github.com/sapnilmodak/YUbot.git
    cd YUbot
    ```
 2. Create and activate a virtual environment:
